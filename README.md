@@ -425,3 +425,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **🌌 Explore the cosmos with confidence!**
 
 This tool brings the wonders of our solar system to your fingertips, making complex astronomical concepts accessible and engaging for everyone from students to professional astronomers.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
